@@ -38,7 +38,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="https://ishan1998.github.io/Portfolio/" className="d-flex">
+        <Navbar.Brand href="https://ishan1998.github.io/MyPortfolio/" className="d-flex">
           <img src={logo} className="img-fluid logo" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle
@@ -96,7 +96,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/Ishan1998/Portfolio"
+                href="https://github.com/Ishan1998/MyPortfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
