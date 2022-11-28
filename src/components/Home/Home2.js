@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            Hey everyone! I am Ishan Rathore, I am a Web Developer and I love to code websites in specially in React.
+            Hey everyone! I am Ishan Rathore, I am a Web Developer and I love to develop websites specially in React.
               <br />
               <br />I am experienced in programming languages including
               <i>
