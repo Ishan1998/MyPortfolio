@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="" target="_blank">Ishan Rathore</a>
+  <a href="https://github.com/Ishan1998/" target="_blank">Ishan Rathore</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Image.png" />
