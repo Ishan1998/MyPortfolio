@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.7857146a.css",
-    "main.js": "/MyPortfolio/static/js/main.e17b8b59.js",
+    "main.js": "/MyPortfolio/static/js/main.713b9b89.js",
     "static/js/415.4d6acbeb.chunk.js": "/MyPortfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Quiz_App.png": "/MyPortfolio/static/media/Quiz_App.1bce7b897147d5530635.png",
     "static/media/Timer_App.png": "/MyPortfolio/static/media/Timer_App.99ebf71f379deaab4998.png",
     "static/media/Nike.png": "/MyPortfolio/static/media/Nike.7c3dd4eac8317c8eb733.png",
     "static/media/Weather_Forecast_App.png": "/MyPortfolio/static/media/Weather_Forecast_App.32088c6273c2f92c82e4.png",
-    "static/media/Resume.pdf": "/MyPortfolio/static/media/Resume.9e40a8896fc1e0ed25a1.pdf",
+    "static/media/Resume.pdf": "/MyPortfolio/static/media/Resume.0701d8c34f8b4bc21823.pdf",
     "static/media/home-main.svg": "/MyPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/MyPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Weather_App.png": "/MyPortfolio/static/media/Weather_App.9cfff76f3bb6ca0f143a.png",
@@ -20,12 +20,12 @@
     "static/media/pre.svg": "/MyPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MyPortfolio/index.html",
     "main.7857146a.css.map": "/MyPortfolio/static/css/main.7857146a.css.map",
-    "main.e17b8b59.js.map": "/MyPortfolio/static/js/main.e17b8b59.js.map",
+    "main.713b9b89.js.map": "/MyPortfolio/static/js/main.713b9b89.js.map",
     "415.4d6acbeb.chunk.js.map": "/MyPortfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7857146a.css",
-    "static/js/main.e17b8b59.js"
+    "static/js/main.713b9b89.js"
   ]
 }
